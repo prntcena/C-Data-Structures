@@ -1,11 +1,10 @@
-Given the pointer to the head node of a linked list, change the next pointers of the nodes so that their order is reversed. The head pointer given may be null meaning that the initial list is empty.
+/*Given the pointer to the head node of a linked list, change the next pointers of the nodes so that their order is reversed. The head pointer given may be null meaning that the initial list is empty.
 
 Example
 references the list Manipulate the pointers of each node in place and return , now referencing the head of the list
 
 .
-
-/*Function Description
+Function Description
 
 Complete the reverse function in the editor below.
 
