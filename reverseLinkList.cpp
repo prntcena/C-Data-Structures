@@ -54,10 +54,10 @@ Explanation
 
 The initial linked list is:
 
-.
+5.
 
 The reversed linked list is:
-.
+1
  */
 #include <bits/stdc++.h>
 
