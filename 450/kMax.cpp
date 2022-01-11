@@ -12,7 +12,7 @@ int main() {
     
     set<int> s(begin(arr),end(arr));
     set<int>::iterator itr = s.begin();
-    advance(itr, k-1);
+    advance(itr, k-1); // use n-k to get kth smallest element
     
     cout<<*itr<<'\n';
 }
